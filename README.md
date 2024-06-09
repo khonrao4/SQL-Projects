@@ -1,4 +1,4 @@
-# My_SQL Project 1 - Kunal Honrao
+# Movies Project 1 - Kunal Honrao
 ---
 - Solved SQL queries to explore and analyze a comprehensive dataset of Bollywood movies.
 - Extracted insights on various aspects such as genres, actors, directors, budgets, and revenues.
