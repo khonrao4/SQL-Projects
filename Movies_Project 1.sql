@@ -1,4 +1,4 @@
- -- My SQL - Project 1
+ -- Movies_Project 1
  
  use etl1;
  
